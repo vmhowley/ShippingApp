@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Ccard() {
   return (
-    <div className="flex justify-center p-10 ">
+    <div className=" ">
             <div className="w-96 h-56 m-auto bg-red-100 rounded-xl relative text-white shadow-2xl transition-transform transform hover:scale-110">
             
                 <img className="relative object-cover w-full h-full rounded-xl" src="https://i.imgur.com/kGkSg1v.png" />
@@ -38,7 +38,7 @@ export default function Ccard() {
                                 </p>
                             </div>
                             <div className="">
-                                <p className="font-light text-xs text-xs">
+                                <p className="font-light text-xs">
                                     Expiry
                                 </p>
                                 <p className="font-medium tracking-wider text-sm">
