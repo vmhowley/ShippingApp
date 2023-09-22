@@ -9,9 +9,8 @@ export default function Home() {
   return ( 
     <>
     <Mnav />
-    <Search />
-    <Ccard />    
-        
+    <Ccard />
+    <Search />    
     </> 
   )
 }

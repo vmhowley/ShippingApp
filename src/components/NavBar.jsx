@@ -10,7 +10,7 @@ export default function NavBar() {
 
   return (
 
-        <div className="shadow-md w-full">
+        <div className="shadow-md p-2">
             <div className='md:px-10 py-4 px-7 md:flex justify-between items-center'>
                 {/* Logo Here */}
                 <div className="flex text-2x1 cursor-pointer items-center gap-2">

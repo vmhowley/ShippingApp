@@ -6,7 +6,6 @@
 
 body{
     margin: 0 auto;
-    --tw-bg-opacity: 1; background-color: rgb(2 6 23 / var(--tw-bg-opacity));
-    
+    background-color: rgb(13, 13, 21);
 }
 
